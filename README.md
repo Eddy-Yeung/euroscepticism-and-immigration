@@ -1,4 +1,4 @@
-Replication files for "Does Immigration Boost Public Euroscepticism in EU Member States?".
+Replication material and manuscript for "Does Immigration Boost Public Euroscepticism in EU Member States?".
 
 Author: Eddy S. F. Yeung
 
